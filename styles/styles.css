@@ -216,9 +216,9 @@ padding: 5rem;
 }
 
 .usedsoft{
-  padding: 0rem 15rem;
+  padding: 0rem 10rem;
   display: grid;
-  grid-template-columns: repeat(4, 2fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 10rem;
 }
 .usedsoft .item{
