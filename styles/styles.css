@@ -216,7 +216,7 @@ padding: 5rem;
 }
 
 .usedsoft{
-  padding: 0rem 30rem;
+  padding: 0rem 15rem;
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-gap: 10rem;
